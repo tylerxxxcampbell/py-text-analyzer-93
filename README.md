@@ -6,3 +6,5 @@ Simple statistics on input text using Python.
 Clone this project and look at the source files:
 - `main.py`
 - `analyzer.py`
+
+*Initialized by tylerxxxcampbell workspace automation.*
